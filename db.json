@@ -1,8 +1,9 @@
 {
 "tags": [
-    { "id": 1, "tag": "Programming" },
-    { "id": 2, "tag": "Novel" },
-    { "id": 3, "tag": "Puzzles" }
+    { "id": 1, "tag": "Confidential" },
+    { "id": 2, "tag": "TradeSecret" },
+    { "id": 3, "tag": "Internal" },
+    { "id": 4, "tag": "Public" }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
